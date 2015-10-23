@@ -1,5 +1,5 @@
 These models were made with the following CLTK code (v0.1.28).
-l
+
 ``` python
 from cltk.vector.word2vec import make_model
 
